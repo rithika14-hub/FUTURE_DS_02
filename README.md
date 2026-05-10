@@ -31,6 +31,10 @@ This project focuses on analyzing telecom customer churn data to understand cust
 - Customer Tenure Analysis
 - Interactive Slicers
 
+## Dashboard Preview
+
+![Dashboard](Image/churn_dashboard.png) 
+
 ## Key Insights
 - Month-to-month contracts showed higher churn
 - New customers had high churn rates
